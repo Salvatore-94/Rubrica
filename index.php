@@ -51,7 +51,7 @@ while ($row = $risultati->fetch_assoc()) {
 </table>
 </div>
 
-<a href='http://salvatore.sitidev.it/rubrica.php'> Aggiungi</a>
+<a href='http://salvatore.sitidev.it/rubrica.php' class="btn btn-primary"> Aggiungi</a>
 
 <?php
 include('footer.php'); ?>
